@@ -1,0 +1,1 @@
+You can choose any type of images but the image should be a HD image not blurr image.For refference purpose I have taken only few images as to load model it will take 2-2:30 hrs .So you can try for more images just you have to draw boundary box for each image. 

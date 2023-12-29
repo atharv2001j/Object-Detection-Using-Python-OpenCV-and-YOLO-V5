@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>04.jpg</filename>
+	<path>E:\YOLO\1_dataprepration\data_images\04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>898</ymin>
+			<xmax>2033</xmax>
+			<ymax>1465</ymax>
+		</bndbox>
+	</object>
+</annotation>
