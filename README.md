@@ -7,3 +7,12 @@ In order to achieve this we will follow the Data Science SDLC (Software Developm
 
 Once our data is ready then we will train our YOLOv5 model in Google Collab GPU environment. Finally we will extract the detection from the model.
 
+Steps for Implementation:
+
+1. Installing OpenCV and other required libraries
+2. Preparing the dataset and annotations for training
+3. Training the YOLO model using Darknet
+4. Fine-tuning the pre-trained YOLO model for better accuracy
+5. Testing the trained model on images and videos
+6. Visualizing the results and tuning the parameters for better performance
+   
